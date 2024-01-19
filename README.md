@@ -36,7 +36,5 @@ System tray
 
 ![image](https://github.com/chunmingwang/gdipClock/assets/35757455/79295999-bdfc-4110-a93d-a7bac928b08e)
 
-![gdipDayMonth](https://github.com/chunmingwang/gdipClock/assets/35757455/003261a3-34c8-4487-9dda-7d241ec789e0)
-
-![gdipDayMonth2](https://github.com/chunmingwang/gdipClock/assets/35757455/ac6710ca-8901-4649-984f-31f62e96cf3d)
+![daaea191cd114b09961e86c882d7417](https://github.com/chunmingwang/gdipClock/assets/35757455/1f45c296-26ec-4705-bfae-273258c328ee)
 
