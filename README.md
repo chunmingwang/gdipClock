@@ -38,3 +38,8 @@ System tray
 
 ![daaea191cd114b09961e86c882d7417](https://github.com/chunmingwang/gdipClock/assets/35757455/1f45c296-26ec-4705-bfae-273258c328ee)
 
+![image](https://github.com/chunmingwang/gdipClock/assets/35757455/e3c045fd-b312-4a15-96cd-18cfc431a62a)
+
+![image](https://github.com/chunmingwang/gdipClock/assets/35757455/5942eb62-47ed-4ba6-8ba7-4baa8c924f21)
+
+
