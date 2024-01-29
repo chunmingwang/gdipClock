@@ -3170,13 +3170,7 @@ Private Sub frmClockType.mnuMenu_Click(ByRef Sender As MenuItem)
 			mAnalogClock.mTrayEdgeColor2 = Color2Gdip(ColorDialog1.Color)
 			Form_Resize(This, Width, Height)
 		End If
-	Case "mnuAnalogTraySC"
-		ColorDialog1.Color = Color2Gdip(mAnalogClock.mTrayShadowColor)
-		If ColorDialog1.Execute() Then
-			mAnalogClock.mTrayShadowColor = Color2Gdip(ColorDialog1.Color)
-			Form_Resize(This, Width, Height)
-		End If
-	Case "mnuAnalogTrayFA2"
+	Case "mnuAnalogTrayFA1"
 		Dim As String s = InputBox("GDIP Clock", "Analog Tray Face Alpha 1", "" & mAnalogClock.mTrayFaceAlpha1, , , Handle)
 		mAnalogClock.mTrayFaceAlpha1 = CSng(s)
 		Form_Resize(This, Width, Height)
@@ -3192,6 +3186,12 @@ Private Sub frmClockType.mnuMenu_Click(ByRef Sender As MenuItem)
 		Dim As String s = InputBox("GDIP Clock", "Analog Tray Edge Alpha 2", "" & mAnalogClock.mTrayEdgeAlpha2, , , Handle)
 		mAnalogClock.mTrayEdgeAlpha2 = CSng(s)
 		Form_Resize(This, Width, Height)
+	Case "mnuAnalogTraySC"
+		ColorDialog1.Color = Color2Gdip(mAnalogClock.mTrayShadowColor)
+		If ColorDialog1.Execute() Then
+			mAnalogClock.mTrayShadowColor = Color2Gdip(ColorDialog1.Color)
+			Form_Resize(This, Width, Height)
+		End If
 	Case "mnuAnalogTraySA"
 		Dim As String s = InputBox("GDIP Clock", "Analog Tray Shadow Alpha", "" & mAnalogClock.mTrayShadowAlpha, , , Handle)
 		mAnalogClock.mTrayShadowAlpha = CSng(s)
@@ -3738,9 +3738,6 @@ Private Sub frmClockType.Form_Show(ByRef Sender As Form)
 	If mnuTransparent.Checked <> mTransparent Then mnuMenu_Click(mnuTransparent)
 	
 	TimerComponent1.Enabled = True
-	
-	Debug.Print mScreenWidth & ", " & mScreenHeight
-	Debug.Print xdpi & ", " & ydpi
 End Sub
 
 Private Sub frmClockType.Transparent(v As Boolean)
