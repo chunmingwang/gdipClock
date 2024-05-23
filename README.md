@@ -1,4 +1,4 @@
-This project needs to rely on ChineseCalendar, MDINotepad and Sapi projects
+This project needs to rely on ChineseCalendar, MDINotepad, Sapi and Midi projects
 
 Analog Clock
 
