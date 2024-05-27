@@ -2,7 +2,7 @@ This project needs to rely on ChineseCalendar, MDINotepad, Sapi and Midi project
 
 Analog Clock
 
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/c85e436c-77c9-432d-81f6-98ca1c5dd5a7)
+![image](https://github.com/chunmingwang/gdipClock/assets/35757455/3adf3e88-2967-4e2a-ac11-6a058f7b69d9)
 
 Text Clock
 
@@ -18,28 +18,12 @@ Month canlendar
 
 Transparent & Opacity
 
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/04447b71-ebdd-47a3-a4d6-4334279d7281)
+![image](https://github.com/chunmingwang/gdipClock/assets/35757455/d859cdc4-fe88-48d3-85c3-04cdfbe2f83a)
 
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/a334cf9f-6755-4643-b851-ffce71d55c51)
+![image](https://github.com/chunmingwang/gdipClock/assets/35757455/a8361ef1-6815-45a8-b2d4-6fa0c6006b8e)
 
 Speech time
 
 System tray
 
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/6dac4634-6bd2-47b9-b1e6-228814241c29)
-
 Save settings, theme/skin
-
-City
-
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/f94f4ce7-3a69-47c9-a9ff-5fb1b0c34392)
-
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/9f587362-55f1-4271-be95-868a0d4374aa)
-
-Dragon
-
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/217ac210-cce8-4a28-b270-e965ae15f941)
-
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/a7faffba-00b9-4dae-9bf7-7c9e4000f9a9)
-
-
