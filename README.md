@@ -1,5 +1,9 @@
 This project needs to rely on ChineseCalendar, MDINotepad, Sapi and Midi projects
 
+Text clock, analog clock, day calendar, monthly calendar.
+With options to set transparency, background, and borders.
+Settings can be stored and loaded.
+
 Analog Clock
 
 ![image](https://github.com/chunmingwang/gdipClock/assets/35757455/3adf3e88-2967-4e2a-ac11-6a058f7b69d9)
